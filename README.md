@@ -5,16 +5,20 @@ An interactive data visualization project built using Microsoft Power BI to anal
 📊 Project Overview
 
 🎯 Objectives
+
 Identify high-performing product categories
 Analyze pricing patterns and their impact on sales performance
 Understand customer preferences using ratings and reviews
 Provide actionable insights for business decision-making
+
 ⚙️ Tools & Technologies
+
 Power BI – Dashboard development & visualization
 DAX (Data Analysis Expressions) – KPI calculations
 Power Query – Data cleaning & transformation
 
 📌 Dashboard Features
+
 📈 KPI Cards: Total Products, Average Rating, Average Price, Total Reviews
 📊 Category Analysis: Product count and average rating comparison
 💰 Price Distribution: Analysis using average price and price segmentation
@@ -23,6 +27,7 @@ Power Query – Data cleaning & transformation
 🎛️ Interactive Filters (Slicers) for Category, Price Range, and Rating
 
 💡 Key Insights
+
 Some categories have higher product volume but lower average ratings
 Mid-range priced products tend to receive more customer engagement
 Higher price does not always guarantee better ratings
