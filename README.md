@@ -17,15 +17,6 @@ Power BI – Dashboard development & visualization
 DAX (Data Analysis Expressions) – KPI calculations
 Power Query – Data cleaning & transformation
 
-📌 Dashboard Features
-
-📈 KPI Cards: Total Products, Average Rating, Average Price, Total Reviews
-📊 Category Analysis: Product count and average rating comparison
-💰 Price Distribution: Analysis using average price and price segmentation
-🏆 Top 10 Bestselling Products based on customer reviews
-🔍 Price vs Rating Analysis using scatter plot
-🎛️ Interactive Filters (Slicers) for Category, Price Range, and Rating
-
 💡 Key Insights
 
 Some categories have higher product volume but lower average ratings
